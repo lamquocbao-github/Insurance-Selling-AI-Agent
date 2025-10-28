@@ -1,6 +1,7 @@
 # 🧧 Tet Insurance AI Agent Demo
 
 A comprehensive Streamlit-based demo of an AI Agent for insurance marketing during Vietnam's Tet (Lunar New Year) season.
+<img width="1363" height="766" alt="image" src="https://github.com/user-attachments/assets/629eb657-4e7f-4b24-ad3e-a6a84daa4b90" />
 
 ## Features
 
